@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Haley Perez
 - 👀 I’m interested in building projects and gaining real experiance through internships
-- 🌱 I’m currently learning data structures and the physical organization of a computer
-- 💞️ I’m looking to collaborate on anything
+- 🌱 I’m currently learning data structures and statistical applications using Rstudio.
+- 💞️ I’m looking to collaborate
 - 📫 How to reach me: HaleyM.Perez@yahoo.com
 
 <!---
