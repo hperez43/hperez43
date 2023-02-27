@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Haley Perez
 - 👀 I’m interested in building projects and gaining real experiance through internships
-- 🌱 I’m currently learning data structures and statistical applications using Rstudio.
+- 🌱 I’m currently learning Operating Systems with C language and User-Interface using JavaFX.
 - 💞️ I’m looking to collaborate
 - 📫 How to reach me: HaleyM.Perez@yahoo.com
 
