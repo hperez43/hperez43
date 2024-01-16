@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Haley Perez
+- ❗ I believe strongly in the importance of incremental changes (in coding practices & life) 
 - 👀 I’m interested in building projects and learning through experience
 - 🌱 I’m currently learning Algorithm Analysis and Machine Learning Basics
 - 💞️ I’m looking to collaborate
