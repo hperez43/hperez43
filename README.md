@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Haley Perez
-- 👀 I’m interested in building projects and gaining real experiance through internships
-- 🌱 I’m currently learning Operating Systems with C language and User-Interface using JavaFX.
+- 👀 I’m interested in building projects and learning through experience
+- 🌱 I’m currently learning Algorithm Analysis and Machine Learning Basics
 - 💞️ I’m looking to collaborate
 - 📫 How to reach me: HaleyM.Perez@yahoo.com
 
